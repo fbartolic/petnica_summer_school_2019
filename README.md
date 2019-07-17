@@ -31,10 +31,7 @@ notes. It may take some time to start.
 If you have prior experience with Jupyter notebooks and Python, you can run the notebooks after
 installing the following additional packages:
 ```
-pip install numpy
-pip install matplotlib
-pip install rebound
-pip install starry
+pip install numpy matplotlib rebound 
 ```
 
 
