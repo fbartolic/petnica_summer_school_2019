@@ -6,7 +6,7 @@ Supporting materials for my lectures on exoplanets at the 2019 Summer School on 
 # Schedule
 ## Day 1 - An overview of exoplanet science  and the two-body problem
 Saturday, 27th July, 2019
-- [Slides on exoplanets](https://github.com/fbartolic/petnica_summer_school_2019/blob/master/day_1/slides.pdf) (right click and save as pdf, it won't render on Github.
+- [Slides on exoplanets](https://github.com/fbartolic/petnica_summer_school_2019/blob/master/day_1/slides.pdf)(warning, these are ~30MB) 
 - [Notes on the two-body problem](https://dynalist.io/d/ZXJTHF0rVkomeP0grFY5uqPK)
 
 ## Day 2 - Hands-on session on planetary dynamics and N-body simulations with REBOUND 
