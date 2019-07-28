@@ -20,11 +20,10 @@ Monday, 29th July, 2019
 - [Notes on data analysis](https://dynalist.io/d/AFgXJclmrqBjmvk1lvUsTy2v)
 - [Exercise on fitting a transit light curve with the Metropolis algorithm]()
 
-
 # Instructions for running the Jupyter notebooks
 ## Running the notebooks using Binder
 You don't need to install anything locally to run Jupyter notebooks with Binder, all 
-you needis a browser and decent wifi. 
+you need is a web browser and decent wifi. 
 Simply click on the "launch binder" icon on the top of these 
 notes. It may take some time to start.
 
