@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fbartolic/petnica_summer_school_2019/master)
 
-# Petnica Summer School on Astrophysics 2019
+# 2019 Petnica Summer School on Astrophysics 
 Supporting materials for my lectures on exoplanets at the 2019 Summer School on Astrophysics in Petnica, Serbia.
 
 # Schedule
