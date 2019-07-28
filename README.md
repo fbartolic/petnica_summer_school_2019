@@ -6,8 +6,8 @@ Supporting materials for my lectures on exoplanets at the 2019 Summer School on 
 # Schedule
 ## Day 1 - An overview of exoplanet science  and the two-body problem
 Saturday, 27th July, 2019
-- [Slides on exoplanets]()
-- [Notes on the two-body problem]()
+- [Slides on exoplanets](https://github.com/fbartolic/petnica_summer_school_2019/blob/master/day_1/slides.pdf) (right click and save as pdf, it won't render on Github.
+- [Notes on the two-body problem](https://dynalist.io/d/ZXJTHF0rVkomeP0grFY5uqPK)
 
 ## Day 2 - Hands-on session on planetary dynamics and N-body simulations with REBOUND 
 Sunday, 28th July, 2019
@@ -17,14 +17,15 @@ Sunday, 28th July, 2019
 
 ## Day 3 - Data analysis and a hands-on session on fitting transit lightcurves using MCMC
 Monday, 29th July, 2019
-- [Notes on data analysis]()
+- [Notes on data analysis](https://dynalist.io/d/AFgXJclmrqBjmvk1lvUsTy2v)
 - [Exercise on fitting a transit light curve with the Metropolis algorithm]()
 
 
-# Instructions on running the Jupyter notebooks
+# Instructions for running the Jupyter notebooks
 ## Running the notebooks using Binder
-You don't need to install anything locally to run Jupter notebooks with Binder, all you need
-is a browser and decent wifi. Simply click on the "launch binder" icon on the top of these 
+You don't need to install anything locally to run Jupyter notebooks with Binder, all 
+you needis a browser and decent wifi. 
+Simply click on the "launch binder" icon on the top of these 
 notes. It may take some time to start.
 
 ## Running the notebooks locally
@@ -33,5 +34,3 @@ installing the following additional packages:
 ```
 pip install numpy matplotlib rebound 
 ```
-
-
