@@ -33,3 +33,8 @@ installing the following additional packages:
 ```
 pip install numpy matplotlib rebound 
 ```
+
+## Solutions to exercises
+To check the solutions for the exercises, change the repository branch from "master" to 
+"solutions" and navigate to the relevant directories. The Jupyter notebooks should render
+in your browser.
